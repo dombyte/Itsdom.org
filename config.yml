@@ -14,7 +14,7 @@ defaultContentLanguage: de
 
 minify:
     disableXML: true
-    # minifyOutput: true
+    minifyOutput: true
 
 languages:
     de:
