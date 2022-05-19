@@ -49,7 +49,8 @@ cc.run({
     // cookie_same_site: 'Lax',
     // use_rfc_cookie: false,                   // default: false
     // revision: 0,                             // default: 0
-
+    mode: 'opt-in',                               // default: 'info'; could also be 'opt-in' or 'opt-out'
+    
     gui_options: {
         consent_modal: {
             layout: 'bar',                    // box,cloud,bar
