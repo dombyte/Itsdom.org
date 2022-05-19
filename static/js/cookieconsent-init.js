@@ -93,8 +93,8 @@ cc.run({
     languages: {
         'en': {
             consent_modal: {
-                title: 'Hallo, it\'s cookie time!',
-                description: 'Unsere Website verwendet Cookies, um einen ordnungsgemäßen Betrieb zu gewährleisten. <a href="https://itsdom.org/datenschutz.html" target="_blank "class="cc-link">Datenschutzerklärung</a> | \ <button type="button" data-cc="c-settings" class="cc-link"">Cookie Einstellungen</button>',
+                title: 'Hello, it\'s cookie time!',
+                description: 'Unsere Website verwendet Cookies, um einen ordnungsgemäßen Betrieb zu gewährleisten. <a href="https://itsdom.org/datenschutz/" target="_blank "class="cc-link">Datenschutzerklärung</a> | \ <button type="button" data-cc="c-settings" class="cc-link"">Cookie Einstellungen</button>',
                 primary_btn: {
                     text: 'Alle Akzeptieren',
                     role: 'accept_all'      //'accept_selected' or 'accept_all'
@@ -121,7 +121,7 @@ cc.run({
                 blocks: [
                     {
                         title: 'Cookies bei der Nutzung unserer Website',
-                        description: 'Unsere Website verwendet Cookies, um einen ordnungsgemäßen Betrieb zu gewährleisten. <a href="https://itsdom.org/datenschutz.html" target="_blank" class="cc-link">Datenschutzerklärung</a>',
+                        description: 'Unsere Website verwendet Cookies, um einen ordnungsgemäßen Betrieb zu gewährleisten. <a href="https://itsdom.org/impressum/" target="_blank" class="cc-link">Impressum</a> | <a href="https://itsdom.org/datenschutz/" target="_blank" class="cc-link">Datenschutzerklärung</a>',
                     }, {
                         title: 'Technisch notwendige Cookies',
                         description: necessary_des,
@@ -136,7 +136,7 @@ cc.run({
                                 col2: 'itsdom.org',
                                 col3: 'Cookie set by Cookie Consent',
                                 col4: '30 days',
-                                col5: '<a rel="noreferrer" href="https://itsdom.org/datenschutz.html" title="Datenschutzerklärung" target="_blank">Datenschutzerklärung</a>',
+                                col5: '<a rel="noreferrer" href="https://itsdom.org/datenschutz/" title="Datenschutzerklärung" target="_blank">Datenschutzerklärung</a>',
                                 is_regex: true
                             }
                         ]
@@ -156,7 +156,7 @@ cc.run({
                                 col2: 'itsdom.org',
                                 col3: 'Cookie set by iframemanager',
                                 col4: '30 days',
-                                col5: '<a rel="noreferrer" href="https://itsdom.org/datenschutz.html" title="Datenschutzerklärung" target="_blank">Datenschutzerklärung</a>'
+                                col5: '<a rel="noreferrer" href="https://itsdom.org/datenschutz/" title="Datenschutzerklärung" target="_blank">Datenschutzerklärung</a>'
                             },
                             {
                                 col1: 'YouTube',
