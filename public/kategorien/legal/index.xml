@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>legal on Itsdom</title>
-    <link>http://localhost:1313/kategorien/legal/</link>
+    <link>https://itsdom.org/kategorien/legal/</link>
     <description>Recent content in legal on Itsdom</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 19 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/kategorien/legal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://itsdom.org/kategorien/legal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Datenschutzerklärung</title>
-      <link>http://localhost:1313/datenschutz/</link>
+      <link>https://itsdom.org/datenschutz/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/datenschutz/</guid>
+      <guid>https://itsdom.org/datenschutz/</guid>
       <description>Einleitung Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als &amp;ldquo;Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten. Die Datenschutzerklärung gilt für alle von uns durchgeführten Verarbeitungen personenbezogener Daten, sowohl im Rahmen der Erbringung unserer Leistungen als auch insbesondere auf unseren Webseiten, in mobilen Applikationen sowie innerhalb externer Onlinepräsenzen, wie z.B. unserer Social-Media-Profile (nachfolgend zusammenfassend bezeichnet als &amp;ldquo;Onlineangebot“).</description>
     </item>
     
     <item>
       <title>Impressum</title>
-      <link>http://localhost:1313/impressum/</link>
+      <link>https://itsdom.org/impressum/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/impressum/</guid>
+      <guid>https://itsdom.org/impressum/</guid>
       <description>Verantwortlich für dieses Angebot gemäß § 5 TMG / § 18 MStV: Dominik Wenninger
 Reinekenwiese 13
 33378 Rheda-Wiedenbrück
